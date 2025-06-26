@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **Anything related to Software Development**
 
-- 📫 How to reach me **almaspr3@gmail.com**
+- 📫 How to reach me **dev.remote0914@gmail.com**
 
 - ⚡ Fun fact **I have some perfect tools for your next project.**
 
