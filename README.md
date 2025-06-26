@@ -59,12 +59,6 @@
 
 ![Almas-Ali Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Almas-Ali&theme=vue) 
 
----
-
-
-| Wakatime | Hire me |
-|----------|---------|
-| ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=almaspr3&theme=transparent&show_owner=true) | ![dev is here](static/dev-is-here.gif) |
 
 
 ## Languages and Tools:
