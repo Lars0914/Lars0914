@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Md. Almas Ali! <img src="https://raw.githubusercontent.com/Almas-Ali/Almas-Ali/master/static/wave.gif"
+<h1 align="center">Hi there, I'm Lars! <img src="https://raw.githubusercontent.com/Almas-Ali/Almas-Ali/master/static/wave.gif"
     width="30px" height="30px"></h1>
 <!-- <h3 align="center">Passionate Software Engineer | Open Source Enthusiast</h3> -->
 
