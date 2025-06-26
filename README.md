@@ -125,21 +125,6 @@
 <hr>
 
 
-## Connect with me:
-
-[Check my portfolio website](https://almasali.net "Almas Ali Portfolio") or check my other social media account here.
-
-<p align="left">
-<a href="https://dev.to/almaspr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="almaspr3" height="30" width="40" /></a>
-<a href="https://twitter.com/almasali22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="almasali22" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-almasali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-almasali" height="30" width="40" /></a>
-<a href="https://fb.com/md.almasali.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.almasali.0" height="30" width="40" /></a>
-<a href="https://instagram.com/almaspr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="almaspr3" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/almaspr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="almaspr3" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/almaspr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="almaspr3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/almaspr3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="almaspr3" height="30" width="40" /></a>
-</p>
-
 <hr>
 
 ## ✍️ Need Inspiration?
