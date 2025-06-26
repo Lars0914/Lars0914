@@ -1,143 +1,84 @@
-<h1 align="center">Hi there, I'm Lars! <img src="https://raw.githubusercontent.com/Almas-Ali/Almas-Ali/master/static/wave.gif"
-    width="30px" height="30px"></h1>
-<!-- <h3 align="center">Passionate Software Engineer | Open Source Enthusiast</h3> -->
 
+
+# Hi, I am Lars! 👋
+
+### 💻Tech Stack
 <p align="center">
-<a href="https://github.com/Almas-Ali"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&center=true&width=435&lines=Passionate+Software+Engineer;Open+Source+Enthusiast" alt="Typing SVG" /></a>
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
+  <br><br>
 </p>
 
-<div align="center">
+<hr>
+ <br>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlmas-Ali&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)
-![Total time coded since Oct 24 2022](https://wakatime.com/badge/user/168edf9f-71dc-49cc-bf77-592d9c9d4eed.svg)
-![Stars](https://img.shields.io/github/stars/Almas-Ali?label=Stars&style=social)
-![Followers](https://img.shields.io/github/followers/Almas-Ali?label=Followers&style=social)
 
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 </div>
 
-## About Me
-
-- 🔭 I’m currently working on **Software Engineer**
-
-- 🌱 I’m currently learning **New technologies and frameworks everyday**
-
-- 👯 I’m looking to collaborate on **Open Source**
-
-- 💬 Ask me about **Anything related to Software Development**
-
-- 📫 How to reach me **dev.remote0914@gmail.com**
-
-- ⚡ Fun fact **I have some perfect tools for your next project.**
+</td><td valign="top" width="33%">
 
 
-<h2 align="center">📊 Progress Stats:</h2>
 
----
+### Backend  
+<div align="center">   
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/codeigniter.svg" alt="CodeIgniter" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />
+</div>
 
+</td><td valign="top" width="33%">
+
+
+
+### DevOps  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+</div>  
+
+
+
+### Database  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
+</div>
+
+
+</td></tr></table> 
+<h2 align="center"> Thanks for visiting my profile. </h2>
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Almas-Ali&theme=tokyonight" alt="Profile Details"/>
-</p>
-
-<p align="center">
-
----
-
-| Overview | In Detail |
-|--------|----------|
-| ![Contributions](https://streak-stats.demolab.com?user=Almas-Ali&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api?username=Almas-Ali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) |
-
----
-
-| Overview | In Detail | Repositories |
-|--------|----------|-------------------|
-| ![Langs in summary](https://github-readme-stats.vercel.app/api/top-langs/?username=Almas-Ali&theme=tokyonight) | ![In detail](https://api.githubtrends.io/user/svg/Almas-Ali/langs?time_range=all_time&include_private=True&group=public&theme=synthwaves) | ![In detail](https://api.githubtrends.io/user/svg/Almas-Ali/repos?time_range=all_time&include_private=true&theme=synthwaves) |
-
----
-
-</p>
-
-
-![Almas-Ali Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Almas-Ali&theme=vue) 
-
-
-
-## Languages and Tools:
-
-<a href="https://github.com/Almas-Ali"><img src="https://readme-typing-svg.demolab.com?font=Tektur&pause=3000&random=false&width=620&lines=Transforming+ideas+into+innovation%2C+one+line+of+Python+at+a+time." alt="Typing SVG" /></a>
-
-<a href="https://www.w3.org/html/" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"
-    width="40" height="40" /> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-    width="40" height="40" /> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript" width="40" height="40" /> </a>
-<a href="https://getbootstrap.com" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-    alt="bootstrap" width="40" height="40" /> </a>
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank"> <img
-    src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" /> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img
-    src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" /> </a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"> <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="flask" width="40"
-    height="40" /> </a>
-<a href="https://reactjs.org/" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"
-    width="40" height="40" /> </a>
-<a href="https://www.python.org" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-    width="40" height="40" /> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"
-    width="40" height="40" /> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-    alt="postgresql" width="40" height="40" /> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-    alt="mongodb" width="40" height="40" /> </a>
-<a href="https://www.sqlite.org/" target="_blank"> <img
-    src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a>
-<a href="https://www.linux.org/" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-    width="40" height="40" /> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img
-    src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-</a>
-<a href="https://git-scm.com/" target="_blank"> <img
-    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-<a href="https://www.docker.com/" target="_blank"> <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-    alt="docker" width="40" height="40" /> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-
-<hr>
-
-
-<hr>
-
-## ✍️ Need Inspiration?
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<hr>
-
-## Want to show your support?
-
-By supporting me you are supporting the hole open-source community.
-
-<p><a href="https://www.buymeacoffee.com/almaspr3"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="almaspr3" /></a>
-</p>
-<br>
-<br>
-<br>
-
-<p>
-Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars
-⭐</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
