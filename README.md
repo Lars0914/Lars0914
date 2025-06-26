@@ -17,7 +17,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working on **Software Engineer**
 
 - 🌱 I’m currently learning **New technologies and frameworks everyday**
 
